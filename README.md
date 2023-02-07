@@ -11,12 +11,18 @@ We share the lastes updates on here. Stay updated!
 
 ## About
 Elite Development, _-formerly known as Gamers TR-_ since April, 10, 2020 \
-Founders: **ilpeN** and **memotex** \
+Founders: **ilpeN** and **memotex**
 
 ### Follow ilpeN on
 
-<img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" width="16" height="16"> [Twitter](https://twitter.com/ilpenwastaken) \
+<img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" width="16" height="16"> [Twitter](https://twitter.com/ilpenwastaken)
 
-<img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" width="16" height="16">  [Instagram](https://instagram.com/ilpenwastaken) \
+<img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" width="16" height="16">  [Instagram](https://instagram.com/ilpenwastaken)
 
 <img src="https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-transparent-background-20.png" width="16" height="16"> [YouTube](https://youtube.com/@ilpeNwastaken)
+
+### Follow memotex on
+
+<img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" width="16" height="16"> [Twitter](https://twitter.com/memotex2)
+
+<img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" width="16" height="16">  [Instagram](https://instagram.com/memotex5)
