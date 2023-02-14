@@ -4,15 +4,26 @@ This is a launcher for Minecraft from Elite Development. This launcher has made 
 ## Download Gamers Client Launcher
 You can download any version:
 
-[Beta 1.0](https://drive.google.com/file/d/1uzzQ9iavWPTfbcAdxYt_Kbi9BYgLgXGl/view?usp=share_link)
+[Download Libraries (compitable w/ Beta 1.0/1.1)](https://drive.google.com/file/d/18sZAkoTk4Dd-MeTJAu3wc09I7WcEr6cB/view?usp=share_link)
+[Download GCL Beta 1.1](https://drive.google.com/file/d/1cO8CwUZt7fu0BgqFcNoQhmmpTW16Ardt/view?usp=share_link)
+[Download GCL Beta 1.0](https://drive.google.com/file/d/1NfsWK1Y_QB9Bju1irwuMg1HOn3ofuHBn/view?usp=share_link)
 
 ## How To Play Gamers Client
-Just download the lastest version of GCL and open the file. Agree the license and click Download button. This may take a while because the file is ~700 MB. Lastly, open the launcher -shortcut will be created- and hit PLAY button.
+Just download libraries and the lastest version of GCL and open the file. Then click the "extract" button and open shortcut where located in desktop when the insttallation finished. (Installation will be automaticly closed when it's finished) Lastly, please download the libraries after Gamers Client Launcher was installed.
 
 ## Patch Notes
 We share the lastes updates on here. Stay updated!
 
-**_There are no any older updates to show on here._**
+### Gamers Client Launcher Beta 1.1 (14/02/23)
+-Added patch notes.
+
+-Some improvements on interface.
+
+-Added advanced settings.
+
+-Added background selection setting.
+
+-Added Azerbaijani, German, French and Spanish languages.
 
 ## About
 Elite Development, _-formerly known as Gamers TR-_ since April, 10, 2020 \
