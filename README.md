@@ -4,8 +4,10 @@ This is a launcher for Minecraft from Elite Development. This launcher has made 
 ## Download Gamers Client Launcher
 You can download any version:
 
-[Download Libraries (compitable w/ Beta 1.0/1.1)](https://drive.google.com/file/d/18sZAkoTk4Dd-MeTJAu3wc09I7WcEr6cB/view?usp=share_link)
+[Download Libraries (compitable w/ Beta 1.1)](https://drive.google.com/file/d/18sZAkoTk4Dd-MeTJAu3wc09I7WcEr6cB/view?usp=share_link)
+
 [Download GCL Beta 1.1](https://drive.google.com/file/d/1cO8CwUZt7fu0BgqFcNoQhmmpTW16Ardt/view?usp=share_link)
+
 [Download GCL Beta 1.0](https://drive.google.com/file/d/1NfsWK1Y_QB9Bju1irwuMg1HOn3ofuHBn/view?usp=share_link)
 
 ## How To Play Gamers Client
